@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "094CB1CA-F6B9-43D8-986E-36CB41262383"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5753CCA3-EF94-4082-BD83-40663DD0B52B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Laba/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5753CCA3-EF94-4082-BD83-40663DD0B52B - c6735fd86a50f30d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.game.getter : Laba.Concentration"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/Laba/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "5753CCA3-EF94-4082-BD83-40663DD0B52B - c3242e8bfa523b01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.game.setter : Laba.Concentration"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/Laba/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5753CCA3-EF94-4082-BD83-40663DD0B52B - 8ae703f13b04b1f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.game.modify : Laba.Concentration"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/Laba/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5753CCA3-EF94-4082-BD83-40663DD0B52B - 48a930de4a5ec1bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.game.modify : Laba.Concentration with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DD265AD-01EF-4EA3-8A9D-56C91F557447"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Laba/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "Hint(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE2853A1-54D3-4A1A-B4FC-E6847737391F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Laba/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE2853A1-54D3-4A1A-B4FC-E6847737391F - bed8d38484215b38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.updateViewFromModel() -&gt; ()"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/Laba/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "AE2853A1-54D3-4A1A-B4FC-E6847737391F - bed8d38484215b38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Laba.ViewController.updateViewFromModel() -&gt; ()"
+                  moduleName = "Laba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelnedobezkin/Desktop/Laba/Laba/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30D27F68-C8F2-4BAC-A9CE-906BAC62B6AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Laba/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "updateViewFromModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
